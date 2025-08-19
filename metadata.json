@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume & Cover Letter Optimizer",
+  "description": "An AI-powered web application that takes your resume and a job description, then generates an optimized resume, a tailored cover letter, and an interview script.",
+  "requestFramePermissions": []
+}
